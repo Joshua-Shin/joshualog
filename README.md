@@ -16,6 +16,6 @@
 - 게시판 기능 : 게시물 작성, 조회, 수정, 삭제
 
 #### API 페이지
-
+![localhost_8080_docs_index html](https://user-images.githubusercontent.com/93418349/222032709-7af03ea8-bdf4-4b69-b21e-59188a41db6e.png)
 
 
